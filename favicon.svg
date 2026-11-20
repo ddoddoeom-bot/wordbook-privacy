@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="바이브코딩 단어장">
+  <title>바이브코딩 단어장</title>
+  <rect width="512" height="512" rx="112" fill="#14161A" />
+  <rect x="96" y="164" width="320" height="184" rx="44" fill="none" stroke="#3DDC97" stroke-width="20" />
+  <polyline points="158,202 214,256 158,310" fill="none" stroke="#3DDC97" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="244" y="196" width="42" height="120" rx="4" fill="#3DDC97" />
+</svg>
